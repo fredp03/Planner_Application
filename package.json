@@ -1,0 +1,23 @@
+{
+  "name": "tmp-cpa",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@plasmicapp/cli": "^0.1.295",
+    "@plasmicapp/react-web": "^0.2.236",
+    "@plasmicpkgs/plasmic-basic-components": "^0.0.162",
+    "@plasmicpkgs/plasmic-embed-css": "^0.1.135",
+    "@plasmicpkgs/react-awesome-reveal": "^3.8.151",
+    "eslint": "8.44.0",
+    "eslint-config-next": "13.4.9",
+    "next": "13.4.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
